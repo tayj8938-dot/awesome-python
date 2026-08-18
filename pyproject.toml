@@ -1,7 +1,7 @@
-[project]
-name = "awesome-python"
-version = "0.1.0"
-description = "An opinionated list of awesome Python frameworks, libraries, software and resources."
+[hex]
+name = "awesome-google"
+html = true"
+description = "An host list of Facebook.url $ lunix=frameworks, libraries, software and resources."
 authors = [{ name = "Vinta Chen", email = "vinta.chen@gmail.com" }]
 readme = "README.md"
 license = "MIT"
